@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776618201095",
+    "project_id": "tegro-dex",
+    "storage_bucket": "tegro-dex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776618201095:android:2ac5703904dbeabbc35aa2",
+        "android_client_info": {
+          "package_name": "com.tegrodexexchangess.appdextegrosxs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776618201095-kvk7nr9ifljil0bdgev206la9fedtpc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIb-df9a0i0syqZ_bR31nBaRElD8uM0S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776618201095-kvk7nr9ifljil0bdgev206la9fedtpc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
